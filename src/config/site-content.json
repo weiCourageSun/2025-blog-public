@@ -61,6 +61,13 @@
 			"value": "sunyuewei3@gmail.com",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1767190691875",
+			"type": "link",
+			"value": "https://www.leleo.top/",
+			"label": "个人主页",
+			"order": 4
 		}
 	],
 	"clockShowSeconds": false,
