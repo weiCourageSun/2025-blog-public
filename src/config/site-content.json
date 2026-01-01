@@ -70,12 +70,12 @@
 			"order": 4
 		}
 	],
-	"clockShowSeconds": false,
+	"clockShowSeconds": true,
 	"summaryInContent": false,
 	"isCachePem": false,
-	"hideEditButton": false,
+	"hideEditButton": true,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 22,
 	"hatFlipped": false,
 	"enableChristmas": true,
 	"beian": {
