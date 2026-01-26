@@ -1,5 +1,15 @@
 [
   {
+    "slug": "fubianfunction",
+    "title": "复变函数学习",
+    "tags": [],
+    "date": "2026-01-26T22:51",
+    "summary": "",
+    "cover": "/blogs/fubianfunction/601fd8785f8c7050.png",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "PID-2",
     "title": "PID控制系统学习(二)",
     "tags": [],
