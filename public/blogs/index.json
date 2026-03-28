@@ -1,5 +1,15 @@
 [
   {
+    "slug": "pcb-1",
+    "title": "PCB设计读书(一)",
+    "tags": [],
+    "date": "2026-03-28T20:30",
+    "summary": "",
+    "cover": "/blogs/pcb-1/5f21855d6f4d1ac4.jpg",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "Orcad1",
     "title": "Orcad和Cadence的学习心得(一)",
     "tags": [],
