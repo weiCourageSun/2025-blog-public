@@ -1,5 +1,15 @@
 [
   {
+    "slug": "4BoardZIKONG",
+    "title": "4层板绘制小结与自控学习(主要是根轨迹，伯德图，传递函数，超前和滞后补偿器设置、PID控制器，滤波思想)(速过)(完结)+运放读书第4章",
+    "tags": [],
+    "date": "2026-04-18T23:13",
+    "summary": "马上学习电力电子技术",
+    "cover": "/blogs/4BoardZIKONG/bd399f7530cf83fd.jpg",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "Signals-3",
     "title": "信号与系统(完结)\\电路阶跃响应",
     "tags": [],
